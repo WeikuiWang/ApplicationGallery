@@ -4,7 +4,9 @@ This page shows the apps that Devs daily used on Windows and Linux,share your li
 ### 32bit
 App Name | Download Address
 ---|---
-Visual Studio 2005 | http://pan.baidu.com/s/1c1Bfdrq
+Visual Studio 2005         | http://pan.baidu.com/s/1c1Bfdrq  
+Office2016_x86_x64含激活工具         | https://pan.baidu.com/s/1jHRw2QM  
+Visio2016_x86_x64          | https://pan.baidu.com/s/1jHX1ZWq  
 ### 64bit
 
 ## Linux
