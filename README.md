@@ -11,6 +11,7 @@ Visio2016_x86_x64          | https://pan.baidu.com/s/1jHX1ZWq  
 App Name | Download Address | 提取码
 ---|--- | ---
 navicat12 for mysql与激活工具 | https://pan.baidu.com/s/1ftideD34Hjitl9GfUOJHsA | 6nhu  
+idea2020 | https://pan.baidu.com/s/1_3cDPel5nChqeaFJRjTzSw | 3ksk  
 
 ## Linux
 ### 32bit
