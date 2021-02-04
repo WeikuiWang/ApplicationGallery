@@ -12,6 +12,7 @@ App Name | Download Address | 提取码
 ---|--- | ---
 navicat12 for mysql与激活工具 | https://pan.baidu.com/s/1ftideD34Hjitl9GfUOJHsA | 6nhu  
 idea2020 | https://pan.baidu.com/s/1_3cDPel5nChqeaFJRjTzSw | 3ksk  
+GitHubDesktopSetup | https://pan.baidu.com/s/1X0I5oCyPtM-JXvbyagps8g | dvo0  
 
 ## Linux
 ### 32bit
